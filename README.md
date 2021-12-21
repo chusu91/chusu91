@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chusu91
+- 👋 Hi, I’m Lucy Sujeong!
 - 👀 I’m interested in learning web development
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 📫 How to reach me lucy.chu.dev@gmail.com
