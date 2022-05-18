@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucy Sujeong!
 - 👀 I’m interested in learning web development
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 I’m currently learning HTML, CSS, Javascript and React
 - 📫 How to reach me lucy.chu.dev@gmail.com
 
 <!---
