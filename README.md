@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Lucy Sujeong!
-- 👀 I’m interested in learning web development
-- 🌱 I’m currently learning HTML, CSS, Javascript and React
+- 🌱 I’m Front-End Developer based in Helsinki Metropolitan Area, Finland
 - 📫 How to reach me lucy.chu.dev@gmail.com
 
 <!---
